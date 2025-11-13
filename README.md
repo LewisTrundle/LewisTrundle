@@ -1,7 +1,5 @@
 # Hi ! 👋 I'm Lewis Trundle!
 
-[![Contact and Social](https://skillicons.dev/icons?i=gmail,linkedin&theme=dark)](https://skillicons.dev)
-
 I’m a full-stack software developer with a First-Class Master’s degree in Computing Science. Check out the skills I use and the projects I’ve been building below.
  
 ## Languages and Tools
