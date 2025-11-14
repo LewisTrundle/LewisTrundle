@@ -2,11 +2,8 @@
 
 I’m a full-stack software developer with a First-Class Master’s degree in Computing Science. Check out the skills I use and the projects I’ve been building below.
  
-## Languages and Tools
-[![Contact and Social](https://skillicons.dev/icons?i=python,django,java,spring,maven,haskell,cs,javascript,typescript,nodejs,react,flutter&theme=dark)](https://skillicons.dev)
-<br>
-[![Contact and Social](https://skillicons.dev/icons?i=firebase,mongodb&theme=dark)](https://skillicons.dev)
-<br>
-[![Contact and Social](https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,docker,graphql,postman,figma&theme=dark)](https://skillicons.dev)
-<br>
-[![Contact and Social](https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark)](https://skillicons.dev)
+## Languages and Frameworks
+[![Contact and Social](https://skillicons.dev/icons?i=python,java,spring,javascript,typescript,cs,react,flutter,dart,nodejs,graphql,django,haskell&theme=dark)](https://skillicons.dev)
+
+## Platforms and Tools
+[![Contact and Social](https://skillicons.dev/icons?i=firebase,mongodb,git,github,gitlab,bitbucket,docker,maven,postman,figma,tensorflow,arduino,raspberrypi&theme=dark)](https://skillicons.dev)
